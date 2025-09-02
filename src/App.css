@@ -32,3 +32,12 @@ header #top-menu ul {
     list-style: none;
     padding: none;
 }
+
+main {
+    height: 80%;
+}
+
+main section {
+    gap: 2rem;
+    margin-top: 10rem;
+}
