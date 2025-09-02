@@ -1,0 +1,34 @@
+body {
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 0.5rem;
+    box-sizing: border-box;
+}
+
+header #top-logo {
+}
+
+header #top-title {
+    font-size: 2.5rem;
+}
+
+header #top-menu {
+    font-size: 1.5rem;
+}
+
+header #top-menu ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    list-style: none;
+    padding: none;
+}
